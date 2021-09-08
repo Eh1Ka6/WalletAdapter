@@ -3,12 +3,14 @@
 ### Prerequisites 
 To run the example you must have yarn installed on your computer
 Your wallet must be connected to testnet
+You need to have a second wallet configured and past it's adress in main.js sendtransaction 
+You press twice the mint button to have enough funds to make the transfer
 ### Install and run the example  
 Enter the directory Solana on your terminal 
 Run : ``` yarn install ```
 Run : ``` yarn build  ```
 Run : ``` yarn start ```
-The last command will open a webpack server on 8080 with 3 buttons Connect , Mint for dev purpose 
+The last command will open a webpack server on 8080 with 3 buttons Connect , Mint for dev purpose, and transfer
  
  ### Extra config 
 - You can change the network for production within the function of getSolweb3.js 
