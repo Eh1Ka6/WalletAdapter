@@ -26,7 +26,7 @@ trash
 .tmp
 .rvmrc
 .trashes
-*~
+
 
 # Gatsby related
 .cache/
