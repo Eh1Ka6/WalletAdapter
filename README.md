@@ -3,7 +3,7 @@
 ### Prerequisites 
 To run the example you must have yarn installed on your computer
 Your wallet must be connected to testnet
-You need to have a second wallet configured and past it's adress in main.js sendtransaction 
+You need to have a second wallet configured and pass it's adress in main.js sendtransaction 
 You must press twice the mint button to have enough funds to make the transfer
 ### Install and run the example  
 Enter the directory Solana on your terminal 
